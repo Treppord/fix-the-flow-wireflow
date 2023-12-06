@@ -1,6 +1,6 @@
 ## User Story
 
-### Toevoegen van Vrienden en Familie voor Samenwerking op Funda Huislijsten**
+### Toevoegen van Vrienden en Familie voor Samenwerking op Funda Huislijsten
 
 **Als** een geregistreerde gebruiker van de Funda-website,
 **wil ik** vrienden en familie kunnen toevoegen aan mijn account,
